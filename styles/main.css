@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.last-update {
+    font-weight: bold;
+    font-style: italic;
+}
